@@ -1,0 +1,12 @@
+[
+    {
+        "subbject": "Social",
+        "marks": 99,
+        "isHighest": true
+    },
+    {
+        "subbject": "english",
+        "marks": 67,
+        "isHighest": false
+    }
+]

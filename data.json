@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Venkat",
+        "age": 32,
+        "isActive": true
+    },
+    {
+        "name": "Lohith",
+        "age": 12,
+        "isActive": false
+    }
+]
